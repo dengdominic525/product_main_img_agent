@@ -1,0 +1,8 @@
+# llm大模型和生图大模型
+DOUBAO_API_KEY=xxxxxxxxx
+LLM_MODEL=doubao-seed-2-0-lite-260428
+LLM_API_URL=https://ark.cn-beijing.volces.com/api/v3/
+SEEDANCE_API_URL=https://ark.cn-beijing.volces.com/api/v3/images/generations
+# 图床
+IMAGE_HOSTING_API_URL=https://freeimage.host/api/1/upload
+IMAGE_HOSTING_API_KEY=xxxxxxxxxxxxxxxx
